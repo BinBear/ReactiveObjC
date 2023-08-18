@@ -11,7 +11,6 @@
 
 #import "RACSubscriberExamples.h"
 
-#import <libkern/OSAtomic.h>
 #import <ReactiveObjC/EXTScope.h>
 #import "RACBehaviorSubject.h"
 #import "RACCompoundDisposable.h"
